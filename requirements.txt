@@ -8,7 +8,7 @@ seaborn
 catboost
 xgboost
 mlflow
--e .
+#-e .
 
 # -e .
 # -e . is used to automatically run setup.py (which helps to install all the required packages). 
